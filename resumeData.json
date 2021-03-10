@@ -21,16 +21,11 @@
                 "name": "tiktok",
                 "url": "https://github.com/",
                 "className": "fa fa-tiktok"
-            }
+            },
             {
                 "name": "linkedin",
                 "url": "https://www.linkedin.com/in/frankmartinez/",
                 "className": "fa fa-linkedin"
-            },
-            {
-                "name": "instagram",
-                "url": "http://instagram.com/",
-                "className": "fa fa-instagram"
             },
             {
                 "name": "github",
