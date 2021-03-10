@@ -49,15 +49,15 @@
         "education": [
             {
                 "school": "UCSD",
-                "degree": "Bacherlor of Arts",
+                "degree": "Bachelor of Arts",
                 "graduated": "June 2004",
-                "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+                "description": "Political Science"
             },
             {
-                "school": "Hogwarts School of Witchcraft and Wizardry",
-                "degree": "Gryffindor House",
-                "graduated": "March 2003",
-                "description": "Received 10 Outstandings in Care of Magical Creatures, Transfiguration, Potions, Charms, Herbology, Astronomy, History of Magic, Arithmancy, Ancient Runes, and Wandmaking."
+                "school": "Coursera",
+                "degree": "Google IT Support",
+                "graduated": "February 2021",
+                "description": ""
             }
         ],
         "work": [
