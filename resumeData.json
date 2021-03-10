@@ -76,24 +76,24 @@
         ],
         "skills": [
             {
-                "name": "Python",
+                "name": "SQL",
                 "level": "60%"
             },
             {
-                "name": "VueJs",
-                "level": "55%"
+                "name": "HTML5",
+                "level": "40%"
             },
             {
-                "name": "ReactJs",
-                "level": "50%"
+                "name": "Javascript",
+                "level": "10%"
             },
             {
                 "name": "CSS",
-                "level": "90%"
+                "level": "30%"
             },
             {
-                "name": "JAVA",
-                "level": "80%"
+                "name": "IIS",
+                "level": "70%"
             }
         ]
     },
