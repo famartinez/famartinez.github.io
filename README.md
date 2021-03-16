@@ -1,5 +1,5 @@
 # Portfolio Template
-Template for personal webpage. Use Reactjs, standart HTML and Material UI - deployed used github pages. 
+Template for personal webpage. Use Reactjs, standart HTML and Material UI - deployed used github pages
 
 
 Credits: 
