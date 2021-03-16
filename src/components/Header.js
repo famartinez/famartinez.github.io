@@ -19,7 +19,6 @@ export default function Header(props) {
             return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
         })
     }
-
     return (
         <header id="home">
             <ParticlesBg type="random" bg={true} />
